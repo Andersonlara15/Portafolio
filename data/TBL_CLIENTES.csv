@@ -1,0 +1,101 @@
+CLIENTE_ID,NOMBRE,EMAIL,FECHA_REGISTRO,REGION_ID
+1,Tere Estévez-Esteve,octaviovina@gmail.com,2024-01-23,2
+2,Vinicio Rebollo Vega,mayte69@garzon-neira.com,2022-12-13,5
+3,Adelia de Trillo,talcolea@gmail.com,2024-09-27,3
+4,Magdalena Tomasa Rivas Bertrán,linovila@granados.com,2024-12-10,1
+5,Cándido Gil Becerra Comas,candelariagascon@baro.net,2023-04-24,3
+6,Narciso Guardiola Martínez,andreacampillo@ribas.com,2022-12-04,3
+7,Tatiana Antúnez Álvaro,corneliomaza@gmail.com,2024-07-23,4
+8,Milagros Dávila Oliver,verdejocosme@hotmail.com,2023-11-17,4
+9,Américo Armas Buendía,ricocesar@millan.es,2025-02-07,5
+10,Julián Ramón-Campos,ygalvan@yahoo.com,2025-02-15,5
+11,Juan José Valdés Lluch,bautista56@aranda.com,2025-02-23,4
+12,Nydia Uriarte Correa,bayovicenta@hotmail.com,2024-06-10,3
+13,Luisina Martínez Manrique,pelaezelvira@saenz-artigas.es,2024-08-01,1
+14,Belén Piñeiro,fidel46@rosa.es,2022-06-26,2
+15,Albino Fonseca-Santamaria,ybarragan@hotmail.com,2024-12-02,3
+16,Esteban Villena Solera,speinado@gmail.com,2022-08-28,6
+17,Corona Jiménez Vilaplana,baezaplacido@gmail.com,2023-10-28,1
+18,Ágata Raya Izaguirre,adelardopuig@pereira.com,2024-09-23,1
+19,Adela Martinez Vázquez,cluque@gmail.com,2024-08-19,1
+20,Godofredo Camilo Madrigal Ávila,cesarsalazar@marcos-puerta.es,2025-03-07,1
+21,Lina Manjón Ramón,galaneutimio@gmail.com,2024-04-05,6
+22,Amaro Grau Guitart,diezjosep@galvan.es,2023-04-19,4
+23,Azucena Tamara Mata Bueno,ramonalasa@hotmail.com,2022-08-04,3
+24,Fabián del Beltrán,charocastell@gmail.com,2023-05-24,1
+25,Aureliano Riquelme Lasa,margarita56@rosado.es,2024-01-30,6
+26,Manuel Ávila Franch,lrocha@porta-estevez.net,2024-09-25,2
+27,Ariel Lloret Hoyos,saturninagrande@hotmail.com,2023-11-13,5
+28,Victoriano Bartolomé Huguet Vidal,soteloosvaldo@gmail.com,2022-11-04,2
+29,Jorge Riquelme-Solé,manzanaressantos@heras.es,2023-12-22,6
+30,Caridad Estevez-Llanos,chus44@silva.com,2023-03-16,5
+31,Gloria Alemany Garcés,verdualmudena@marmol.net,2023-07-21,5
+32,Jordana Real Nebot,eutimio84@hotmail.com,2023-02-16,2
+33,Marcial Benet-Acero,jimenezeligio@saura.es,2025-02-11,1
+34,Josué Elías Rivas,palominosantiago@espana-canete.es,2022-07-26,4
+35,Emiliana Pujadas Albero,llamasisidora@hotmail.com,2022-08-14,2
+36,Luis Tejero Peña,gmari@tapia.org,2023-04-05,2
+37,Andrés Felipe del Pina,aceropetrona@garay.es,2023-12-10,4
+38,Mónica Llorente Sacristán,calixtovalencia@zurita.org,2024-09-20,2
+39,Martirio Paredes Reguera,pradojose-manuel@yahoo.com,2024-11-18,4
+40,Gabriel Gregorio Rodríguez Cervera,valeriolamas@yahoo.com,2024-11-19,1
+41,Cristóbal Niño Figueras,isabel12@hotmail.com,2023-01-04,2
+42,Bibiana Bou,candela86@canellas.net,2022-08-27,4
+43,José Manuel Teobaldo Salmerón Benito,ceciliacarlos@puig.es,2023-08-21,4
+44,Primitiva Margarita Arregui Balaguer,udiez@yahoo.com,2024-05-18,1
+45,Matilde Velasco Céspedes,leonelpinol@galan.es,2022-12-26,2
+46,Marcia del Gargallo,ocarnero@hotmail.com,2024-02-12,1
+47,Águeda Juan-Galiano,estefania51@chico.com,2025-01-03,5
+48,Remigio Fernández Lerma,fatima67@sarabia.com,2023-03-04,3
+49,Leonel Corbacho Rivas,matasancho@tenorio.com,2024-12-06,1
+50,Gonzalo Valverde Olivé,ytomas@mendez.es,2022-06-24,1
+51,Norberto Núñez Zapata,calderonpaulino@yahoo.com,2024-05-20,2
+52,Juan Pablo Escamilla Patiño,verdugoadelardo@alberdi.com,2024-07-06,2
+53,Encarnita Aguirre Jove,elenasanmartin@yahoo.com,2024-03-21,3
+54,Adriana Amo Macias,amorosrosario@segui.com,2024-06-06,1
+55,Chucho Vega Rivero,pastorcisneros@perera.es,2024-12-16,5
+56,Hilario Vilaplana Falcón,vanesamate@hotmail.com,2023-07-14,5
+57,Eloy Campillo-Pagès,alecantero@canet.es,2024-09-24,2
+58,Germán Peiró Rosado,alarconnicanor@antunez.org,2024-03-01,2
+59,Fabricio Alvarado Rozas,vaqueroreyes@yahoo.com,2024-09-25,2
+60,Prudencia Mayo Luz,saturninaleiva@cerdan.es,2023-04-11,5
+61,Gervasio Montesinos,aramirez@sosa.net,2024-07-13,6
+62,Pía Girón Peña,ocanete@gmail.com,2025-03-04,2
+63,Remigio Noé Gracia Egea,juan-bautistapujadas@mendizabal-girona.net,2024-04-10,5
+64,Gabino Agullo Ocaña,fidelpedro@gmail.com,2024-01-29,6
+65,Martirio Piñeiro Quirós,adelia82@yahoo.com,2023-02-24,6
+66,Cesar Roig Paniagua,peralestelmo@yahoo.com,2024-10-20,3
+67,Eufemia Segarra,estebancastaneda@yahoo.com,2024-07-30,6
+68,Marita Luján Barriga,karanda@gmail.com,2023-08-15,2
+69,Perlita Mosquera,rodolfo14@yahoo.com,2024-06-18,5
+70,Paz Blasco Valencia,amadapellicer@cal-viana.com,2023-04-03,1
+71,Dan Alfredo Ponce Bermudez,ymorera@roman-coloma.com,2023-08-31,2
+72,Eric Cantero Heras,nvalera@santos.es,2024-09-21,1
+73,Marcial Goñi Mateu,bermudezaugusto@pelaez-gutierrez.es,2022-05-19,1
+74,Gabriel de Ayllón,cgarzon@pedro.es,2023-11-22,6
+75,Poncio Canet Carmona,talaveraroberta@cardenas-anton.org,2023-02-19,3
+76,Joel Rosales Almansa,salinasmarisela@boada.es,2023-06-11,5
+77,Moisés Rivero,encarna22@molins-valera.com,2024-10-12,1
+78,Cirino José Gómez Cal,ayusoharoldo@julia-morante.net,2024-07-22,6
+79,Ramona Bauzà,daniaznar@gmail.com,2023-04-06,4
+80,Aureliano Isern Cobo,grodrigo@hotmail.com,2025-02-09,1
+81,Mercedes del Rios,jtrujillo@hotmail.com,2022-08-01,4
+82,Galo Escribano-Montero,germanmadrid@gmail.com,2025-01-08,6
+83,Porfirio Valcárcel Escribano,apujol@barriga.com,2024-11-29,2
+84,Bernardo Loreto Cortes Jerez,dorotea16@gmail.com,2022-12-13,1
+85,Calista del Arce,diazalfonso@yahoo.com,2023-02-28,2
+86,Beatriz Alsina,enriquecuenca@hotmail.com,2023-06-23,2
+87,Iris Hernando Haro,evelia90@vall.net,2024-04-19,6
+88,Marianela Atienza Prada,cabelloalejandro@perea.es,2022-05-27,3
+89,Reyes Córdoba Ortega,modesta90@hotmail.com,2023-01-28,1
+90,Berto Piquer Navarrete,ana26@banos.com,2025-03-08,6
+91,Tecla del Querol,svazquez@hotmail.com,2022-09-23,4
+92,Manuela Arco,leivaamaya@gmail.com,2023-02-04,2
+93,Eloísa Pazos,crespiemigdio@alberdi.es,2025-04-16,4
+94,Amanda Sandoval Varela,arteagajordan@hotmail.com,2024-11-27,2
+95,Bruno Viana Pagès,amayaalvarez@gonzalez-espejo.com,2023-12-12,5
+96,Mar Amanda Otero Acuña,landanando@hotmail.com,2023-09-01,2
+97,José Mari Santos Blanco,mmoles@gmail.com,2024-08-25,3
+98,María Ángeles Martorell Barrera,zpedrosa@hotmail.com,2023-04-24,4
+99,Roberto Soto Múñiz,asolis@yahoo.com,2023-10-14,3
+100,Anastasio Tejera,pouolalla@sarabia-arevalo.net,2024-06-16,6
